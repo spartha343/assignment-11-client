@@ -1,0 +1,15 @@
+.item_container{
+    display: flex;
+    justify-content: space-around;
+}
+.body{
+    min-width: 40%;
+}
+.quantity{
+    min-width: 20%;
+}
+@media only screen and (max-width: 600px) {
+    .item_container{
+        flex-direction: column;
+    }
+}

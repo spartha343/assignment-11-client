@@ -1,0 +1,16 @@
+.partner{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    
+}
+.partner img{
+    max-width: 150px;
+    margin :auto;
+}
+@media only screen and (max-width: 600px) {
+    
+    .partner{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
