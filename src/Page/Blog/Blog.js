@@ -10,7 +10,7 @@ const Blog = () => {
             </Card>
             <Card body className='m-3 p-4'>
                 <h1> When should you use node.js and when should you use mongoDB ?</h1>
-                <p>mongo db is best for large application that doesn't need relational databse. and node js is most used for event-driven servers</p>
+                <p>mongoDB is best for large application that doesn't need relational database. and node.js is mostly used for event-driven servers.</p>
             </Card>
             <Card body className='m-3 p-4'>
                 <h1>What is the differences between SQL and noSQL databases ?</h1>
