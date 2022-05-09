@@ -18,7 +18,7 @@ const Blog = () => {
             </Card>
             <Card body className='m-3 p-4'>
                 <h1>What is the purpose of jwt and how does it work</h1>
-                <p> jwt is used for website data sceurity. jwt takes inputs message, sceret, expirey  and makes a hash code and sends the data to user. and the data token is also used to recognize the user again.</p>
+                <p> jwt is used for website data security. jwt takes inputs message, secret, expiry  and makes a hash code and sends the data to user. and the data token is also used to recognize the user again.</p>
             </Card>
         </div>
     );
