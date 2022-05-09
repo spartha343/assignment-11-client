@@ -5,7 +5,7 @@ const Blog = () => {
     return (
         <div>
             <Card body className='m-3 p-4'>
-                <h1>Difference between javascript and nodejs</h1>
+                <h1>What is the difference between javascript and node.js</h1>
                 <p>js is a programming language on the other hand node js is an interpreter for js program </p>
             </Card>
             <Card body className='m-3 p-4'>
