@@ -13,7 +13,7 @@ const Blog = () => {
                 <p>mongo db is best for large application that doesn't need relational databse. and node js is most used for event-driven servers</p>
             </Card>
             <Card body className='m-3 p-4'>
-                <h1>Differences between sql and nosql databases.</h1>
+                <h1>Differences between SQL and noSQL databases.</h1>
                 <p>SQL databases are table-based. SQL databases are vertically scalable. SQL databases are better for multi-row transactions. NoSQL databases are horizontally scalable.NoSQL databases are document, key-value, graph, or wide-column stores.NoSQL is better for unstructured data like documents or JSON. </p>
             </Card>
             <Card body className='m-3 p-4'>
