@@ -9,7 +9,7 @@ const Blog = () => {
                 <p>js is a programming language on the other hand node js is an interpreter for js program </p>
             </Card>
             <Card body className='m-3 p-4'>
-                <h1> When should you use nodejs and when should you use mongodb</h1>
+                <h1> When should you use node.js and when should you use mongoDB</h1>
                 <p>mongo db is best for large application that doesn't need relational databse. and node js is most used for event-driven servers</p>
             </Card>
             <Card body className='m-3 p-4'>
